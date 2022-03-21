@@ -14,7 +14,7 @@
 ![HTML5Badge](https://img.shields.io/badge/-HTML5-ff5733?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
 ![SASSBadge](https://img.shields.io/badge/-SASS-ff69b4?style=flat-square&logo=SASS&logoColor=white)
-![JavascriptBadge](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=Javascript&logoColor=black)
+![JavascriptBadge](https://img.shields.io/badge/-JAVASCRIPT-faf457?style=flat-square&logo=Javascript&logoColor=black)
 
 
 
