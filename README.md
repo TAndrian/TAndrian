@@ -10,5 +10,6 @@
 - ⚡ Fun fact: My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple: lemon :lemon:
 
 # Main programming languages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandrian)](https://github.com/anuraghazra/github-readme-stats)
 
 # Most used technologies
