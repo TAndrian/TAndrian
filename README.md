@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rakotoarisoa-tahiriniaina-andrian-4a01aa211/), [Twitter](https://twitter.com/OkimaruYu)
 - 😄 Pronouns: He/Him
 - :guitar: Hobby : I like to play the guitar
-- ⚡ Fun fact: My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple: lemon :lemon:
+- 🌟 My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple: lemon :lemon:
 
 ### Main used languages
 ![HTML5Badge](https://img.shields.io/badge/-HTML5-ff5733?style=flat-square&logo=HTML5&logoColor=white)
