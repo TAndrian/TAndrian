@@ -17,7 +17,7 @@
 ![JavaScriptBadge](https://img.shields.io/badge/-JAVASCRIPT-faf457?style=flat-square&logo=Javascript&logoColor=black)
 ![TypeScriptBadge](https://img.shields.io/badge/-TYPESCRIPT-1b8acf?style=flat-square&logo=Typescript&logoColor=white)
 ![AngularBadge](https://img.shields.io/badge/-ANGULAR-db304d?style=flat-square&logo=Angular&logoColor=white)
-![VueJSBadge](https://img.shields.io/badge/-VueJS-172b17?style=flat-square&logo=VueJS&logoColor=white)
+![VueJSBadge](https://img.shields.io/badge/-VueJS-172b17?style=flat-square&logo=VUEJS&logoColor=white)
 
 
 
