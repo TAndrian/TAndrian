@@ -7,5 +7,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rakotoarisoa-tahiriniaina-andrian-4a01aa211/), [Twitter](https://twitter.com/OkimaruYu)
 - 😄 Pronouns: He/Him
 - :guitar: Hobby : I like to play the guitar
-- ⚡ Fun fact: My favorite fruits are : strawberry :strawberry: blueberry :blueberries: oranges :orange: pinapple :pineapple: lemon :lemon:
+- ⚡ Fun fact: My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple: lemon :lemon:
 
+# Main programming languages
+
+# Most used technologies
