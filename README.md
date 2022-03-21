@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandrian&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandrian&show_icons=true&theme=merko)
 
 - :mortar_board: I’m currently a student at the University of Rennes 1 as a software engineer
 - :books: I’m currently learning React, Symfony, Express, SpringBoot, Flutter
