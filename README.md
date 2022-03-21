@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandrian&show_icons=true&theme=radical)
 
 - :mortar_board: I’m currently a student at the University of Rennes 1 as a software engineer
 - :books: I’m currently learning React, Symfony, Express, SpringBoot, Flutter
@@ -10,6 +11,6 @@
 - ⚡ Fun fact: My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple: lemon :lemon:
 
 # Main programming languages
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandrian)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Most used technologies
