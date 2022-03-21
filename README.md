@@ -14,8 +14,8 @@
 ![HTML5Badge](https://img.shields.io/badge/-HTML5-ff5733?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3Badge](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=CSS3&logoColor=white)
 ![SASSBadge](https://img.shields.io/badge/-SASS-ff69b4?style=flat-square&logo=SASS&logoColor=white)
-![JavascriptBadge](https://img.shields.io/badge/-JAVASCRIPT-faf457?style=flat-square&logo=Javascript&logoColor=black)
-
-
+![JavaScriptBadge](https://img.shields.io/badge/-JAVASCRIPT-faf457?style=flat-square&logo=Javascript&logoColor=black)
+![TypeScriptBadge](https://img.shields.io/badge/-TYPESCRIPT-1b8acf?style=flat-square&logo=Typescript&logoColor=white)
+![AngularBadge](https://img.shields.io/badge/-ANGULAR-db304d?style=flat-square&logo=Angular&logoColor=white)
 
 ### Most used technologies
