@@ -11,7 +11,7 @@
 - ⚡ Fun fact: My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple: lemon :lemon:
 
 # Main programming languages
-![JavascriptBadge](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=Javascript&logoColor=black?logoWidth=50)
+![JavascriptBadge](https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=Javascript&logoColor=black?logoWidth=1000)
 
 
 # Most used technologies
