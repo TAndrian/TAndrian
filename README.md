@@ -33,7 +33,7 @@ My name is Andrian and I am a student at the University of Rennes 1 as a softwar
 
 <h2>Others : </h2>
 <p>
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/></a>
+        <a href="https://git-scm.com/" title="git" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" title="Jira" alt="git" height='42px'/></a>
         <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=93058439420&campaign=9124878462&creative=542638212407&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51242141084&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjwpeaYBhDXARIsAEzItbHSdU-va5N-ltgaB6SfnRzjZwzvYNRLPLF02NVNJESkDdGvk-CfaqsaAjkLEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="./assets/jira.svg" alt="JIRA" height='42px'/></a>
         
 </p>
