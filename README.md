@@ -1,8 +1,7 @@
 <h1>Hi :wave: ! I am a fullstack developer</h1>
 <p>Passionnated by web application design, I take great care in the user experience, architecture and code quality of the apps I build .</p>
-<p>My name is Andrian and I am a student at the University of Rennes 1 as software engineer.</p> 
+My name is Andrian and I am a student at the University of Rennes 1 as software engineer.
 <p>I am currently a fullstack developer at Achalander.com.</p>
-<br/>
 
 <h1>My techs : </h1>
  
