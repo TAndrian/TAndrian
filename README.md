@@ -5,7 +5,7 @@ My name is Andrian and I am a student at the University of Rennes 1 as a softwar
 
 <h1>My techs : </h1>
  
- <h2>WEB : </h2>
+ <h2>Front-end : </h2>
 
 <p>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank"> <img alt="HTML5" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
@@ -19,7 +19,7 @@ My name is Andrian and I am a student at the University of Rennes 1 as a softwar
         <a href="https://nodejs.org" title="NodeJs" target="_blank"><img alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 </p>
 
- <h2>Software/Back-end : </h2>
+ <h2>Back-end : </h2>
  <p>
     <a href="https://www.w3schools.com/java/default.asp" title="java" target="_blank"> <img alt="JAVA" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
     <a href="https://spring.io/projects/spring-boot/" title="SpringBoot" target="_blank"> <img alt="SpringBoot" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"></a>
