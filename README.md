@@ -1,7 +1,7 @@
 <h1>Hi :wave: ! I am a full stack developer</h1>
 <p>Passionnated by web application design, I take great care in the user experience, architecture and code quality of the apps I build .</p>
-My name is Andrian and I am a student at the University of Rennes 1 as a software engineer.
-<p>I am currently a full stack developer at Achalander.com.</p>
+My name is Andrian and I am a young graduate software engineer from the University of Rennes 1.
+<p>I am looking for new career opportunities, interested in M.E.R.N stack projects, but also open to learn new technologies.</p>
 
 <h1>My techs : </h1>
  
@@ -14,6 +14,7 @@ My name is Andrian and I am a student at the University of Rennes 1 as a softwar
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="javascript" target="_blank"> <img alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
         <a href="https://www.typescriptlang.org/" title="Typescirpt" target="_blank"><img alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
         <a href="https://reactjs.org/" title="React" target="_blank"> <img alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+         <a href="https://nextjs.org/" title="NextJs" target="_blank"> <img alt="NextJs" height ="42px"  src="./assets/next.png"></a>
         <a href="https://angular.io/" title="Angular" target="_blank"> <img alt="Angular" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg"></a>
         <a href="https://vuejs.org/" title="VueJS" target="_blank"> <img alt="VueJS" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg"></a>
         <a href="https://nodejs.org" title="NodeJs" target="_blank"><img alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
@@ -25,11 +26,14 @@ My name is Andrian and I am a student at the University of Rennes 1 as a softwar
     <a href="https://spring.io/projects/spring-boot/" title="SpringBoot" target="_blank"> <img alt="SpringBoot" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/spring/spring.svg"></a>
     <a href="https://www.w3schools.com/php/default.asp" title="PHP" target="_blank"> <img alt="PHP" height ="42px"  src="./assets/php.svg"></a>
      <a href="https://symfony.com/" title="Symfony" target="_blank"> <img alt="Symfony" height ="42px"  src="./assets/symfony.png"></a>
+     <a href="https://expressjs.com/" title="ExpressJs" target="_blank"> <img alt="ExpressJs" height ="42px"  src="./assets/expressJS.png"></a>
+      
  </p>
 
  <h2>Database : </h2>
 
 <a href="https://sql.sh/" target="_blank"> <img alt="SQL" height ="80px"  src="./assets/mysql.svg"></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img alt="mongodb" height ="60px"  src="./assets/mongodb.svg"></a>
 
 <h2>Others : </h2>
 <p>
@@ -52,10 +56,6 @@ My name is Andrian and I am a student at the University of Rennes 1 as a softwar
 <br/>
 
 <p align="center">
-    <a href="https://www.facebook.com/kabutorakotarih.rakotoarisoa" title="Tchat on facebook">
-        <img class="social__facebook" alt="Facebook" src="./assets/facebook.png" width="35px" />
-    </a>
-    *
     <a href="https://www.linkedin.com/in/rakotoarisoa-tahiriniaina-andrian-4a01aa211/" title="Discuss on linkedin">
         <img class="social__skype" alt="Skype" src="./assets/linkedin.png" width="35px" />
     </a>
