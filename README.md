@@ -49,7 +49,6 @@ My name is Andrian and I am a young graduate software engineer from the Universi
 - :mortar_board: Young graduate software engineer from the University of Rennes 1.
 - :books: I’m currently learning more about VueJs, Nuxt, Angular, Symfony, SpringBoot, NestJS.
 - 🤔 I’m looking for some advices about DevOps.
-- 😄 Pronouns: He/Him.
 - :guitar: Hobby : I like to play the guitar.
 - 😋 My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple: lemon :lemon:
 
