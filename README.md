@@ -46,9 +46,9 @@ I have honed my skills in building robust and efficient applications as Full Sta
 <p>
   <a href="https://https://dev.mysql.com/doc/" target="_blank"> <img alt="mysql logo" height ="80px"  src="./assets/mysql.svg"></a>
   <a href="https://mariadb.com/kb/en/documentation/" target="_blank"> <img alt="mariadb logo" height ="80px"  src="./assets/mariadb.svg"></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"> <img alt="postgresql logo" height ="30px"  src="./assets/postgresql.png"></a>
-  <a href="https://docs.liquibase.com/home.html" target="_blank"> <img alt="liquibase logo" height ="30px"  src="./assets/liquibase.png"></a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img alt="mongodb logo" height ="50px"  src="./assets/mongodb.svg"></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank"> <img alt="postgresql logo" height ="50px"  src="./assets/postgresql.png"></a>
+  <a href="https://docs.liquibase.com/home.html" target="_blank"> <img alt="liquibase logo" height ="50px"  src="./assets/liquibase.png"></a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img alt="mongodb logo" height ="60px"  src="./assets/mongodb.svg"></a>
 </p>
 
 <h2>Project management 🎯: </h2>
