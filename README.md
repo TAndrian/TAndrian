@@ -62,8 +62,8 @@ I have honed my skills in building robust and efficient applications as Full Sta
 
 <h2>Others 🛠️️: </h2>
 <p>
-  <a href="https://docs.docker.com/" target="_blank"> <img alt="docker logo" height ="80px"  src="./assets/docker.svg"></a>
-  <a href="https://www.keycloak.org/documentation" target="_blank"> <img alt="keycloak logo" height ="80px"  src="./assets/keycloak.png"></a>
+  <a href="https://docs.docker.com/" target="_blank"> <img alt="docker logo" height ="42px"  src="./assets/docker.svg"></a>
+  <a href="https://www.keycloak.org/documentation" target="_blank"> <img alt="keycloak logo" height ="42px"  src="./assets/keycloak.png"></a>
 </p>
 
 <h2>IDEs and tools 🛠️🧰️: </h2>
