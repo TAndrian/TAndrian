@@ -22,7 +22,7 @@ I have honed my skills in building robust and efficient applications as Full Sta
     <a href="https://expressjs.com/" title="ExpressJs" target="_blank"> <img alt="ExpressJs" height ="42px"  src="./assets/expressJS.png"></a>
  </p>
 
-<h2>Programing languages </>: </h2>
+<h2>Programing languages 👨‍💻: </h2>
 <p>
     <a href="https://www.w3schools.com/java/default.asp" title="java" target="_blank"> <img alt="jva logo" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank"> <img alt="HTML5 logo" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
