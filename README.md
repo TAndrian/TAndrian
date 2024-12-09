@@ -68,11 +68,11 @@ I have honed my skills in building robust and efficient applications as Full Sta
 
 <h2>IDEs and tools 🛠️🧰️: </h2>
 <p>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img alt="intellij logo" height ="80px"  src="./assets/intellij.png"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode logo" height ="80px"  src="./assets/vscode.png"></a>
-  <a href="https://www.postman.com/" target="_blank"> <img alt="postman logo" height ="80px"  src="./assets/postman.svg"></a>
-  <a href="https://swagger.io/" target="_blank"> <img alt="swagger logo" height ="80px"  src="./assets/swagger.png"></a>
-  <a href="https://dbeaver.io/" target="_blank"> <img alt="dbeaver logo" height ="80px"  src="./assets/dbeaver.png"></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img alt="intellij logo" height ="42px"  src="./assets/intellij.png"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img alt="vscode logo" height ="42px"  src="./assets/vscode.png"></a>
+  <a href="https://www.postman.com/" target="_blank"> <img alt="postman logo" height ="42px"  src="./assets/postman.svg"></a>
+  <a href="https://swagger.io/" target="_blank"> <img alt="swagger logo" height ="42px"  src="./assets/swagger.png"></a>
+  <a href="https://dbeaver.io/" target="_blank"> <img alt="dbeaver logo" height ="42px"  src="./assets/dbeaver.png"></a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandrian&show_icons=true&theme=radical)
@@ -89,9 +89,9 @@ I have honed my skills in building robust and efficient applications as Full Sta
 
 <p align="center">
     <a href="https://www.linkedin.com/in/tahiriniaina-andrianina-rakotoarisoa-4a01aa211/" title="Discuss on linkedin">
-        <img alt="linkedin logo" src="./assets/linkedin.png" width="35px" />
+        <img alt="linkedin logo" src="./assets/linkedin.png" width="50px" />
     </a>
     <a href="https://andrian-portfolio.vercel.app/" title="Visit my portfolio">
-        <img alt="portfolio logo" src="./assets/portfolio.png" width="35px" />
+        <img alt="portfolio logo" src="./assets/portfolio.png" width="50px" />
     </a>
 </p>
