@@ -81,8 +81,8 @@ I have honed my skills in building robust and efficient applications as Full Sta
 
 - :books: I’m currently learning more about Kafka, Microservices, NestJS.
 - 🤔 I’m looking for some advices about DevOps.
-- 🎮: I play Tekken 8 and LoL.
-- 😋 My favorite fruits are : strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple:
+- 🎮 I play Tekken 8 and LoL.
+- 😋 My favorite fruits are: strawberry :strawberry: blueberry :blueberries: orange :orange: pineapple :pineapple:
   lemon :lemon:
 
 <br/>
