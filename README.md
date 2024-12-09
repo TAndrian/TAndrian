@@ -37,9 +37,9 @@ I have honed my skills in building robust and efficient applications as Full Sta
 <h2>Testing frameworks ⚗️: </h2>
 <p>
   <a href="https://www.baeldung.com/mockito-series" target="_blank"> <img alt="mockito logo" height='42px'  src="./assets/mockito.png"></a>
-  <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"> <img alt="junit5 logo" height='42px'  src="./assets/junit.png"></a>
+  <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"> <img alt="junit5 logo" height='30px'  src="./assets/junit.png"></a>
   <a href="https://jasmine.github.io/" target="_blank"> <img alt="jasmine logo" height='42px' src="./assets/jasmine.png"></a>
-  <a href="https://java.testcontainers.org/" target="_blank"> <img alt="testcontainers logo" height='42px'  src="./assets/testcontainers.svg"></a>
+  <a href="https://java.testcontainers.org/" target="_blank"> <img alt="testcontainers logo" height='30px'  src="./assets/testcontainers.svg"></a>
 </p>
 
 <h2>Databases 🛢️: </h2>
