@@ -88,10 +88,10 @@ I have honed my skills in building robust and efficient applications as Full Sta
 <br/>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/rakotoarisoa-tahiriniaina-andrian-4a01aa211/" title="Discuss on linkedin">
+    <a href="https://www.linkedin.com/in/tahiriniaina-andrianina-rakotoarisoa-4a01aa211/" title="Discuss on linkedin">
         <img alt="linkedin logo" src="./assets/linkedin.png" width="35px" />
     </a>
-    <a href="https://www.linkedin.com/in/rakotoarisoa-tahiriniaina-andrian-4a01aa211/" title="Visit my portfolio">
+    <a href="https://andrian-portfolio.vercel.app/" title="Visit my portfolio">
         <img alt="portfolio logo" src="./assets/portfolio.png" width="35px" />
     </a>
 </p>
